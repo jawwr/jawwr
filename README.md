@@ -15,7 +15,7 @@
 
 ---
 ## About me:
-### I am Java <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> Developer
+### I am <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> Developer
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
