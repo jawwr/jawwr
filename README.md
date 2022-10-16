@@ -13,11 +13,9 @@
     </div>
 </div>
 
----
 ## About me:
 ### I am <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> Developer
 
----
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -32,7 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
 ## My Stats:
 <div id="header">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jawwr&theme=tokyonight&locale=en" width="600">
