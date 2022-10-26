@@ -2,7 +2,7 @@
     <div>
         <img src="https://media.tenor.com/8wBCqZH60U8AAAAM/computer-cat.gif" width="400"/>
     <div>
-    <a href="t.me/jawwr">
+    <a href="https://t.me/jawwr">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     </div>
